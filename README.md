@@ -51,11 +51,6 @@ stopwatch-web-app/
 
 ## How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/stopwatch-web-app.git
-
-
 Navigate to the project folder.
 
 Open index.html in any modern web browser.
@@ -74,7 +69,7 @@ Internship or academic task submissions
 
 Demonstrating front-end development skills
 
-##UI/UX Highlights
+## UI/UX Highlights
 
 Glassmorphism effects with blur and transparency
 
@@ -82,10 +77,10 @@ Gradient buttons with smooth hover animations
 
 Clean layout with intuitive controls
 
-#Preview
+# Preview
 
 Add screenshots or a GIF of the application here to enhance presentation.
 
-##License
+## License
 
 This project is open-source and available under the MIT License.
